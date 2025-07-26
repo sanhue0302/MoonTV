@@ -88,6 +88,14 @@
     "maotaizy": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "name": "茅台资源"
+    },
+    hwba: {
+        api: 'https://cjhwba.com/api.php/provide/vod',
+        name: '华为吧资源',
+    },
+    baidu: {
+        api: 'https://api.apibdzy.com/api.php/provide/vod',
+        name: '百度云资源'
     }
   }
 }
