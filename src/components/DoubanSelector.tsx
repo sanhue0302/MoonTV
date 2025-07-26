@@ -54,7 +54,6 @@ const DoubanSelector: React.FC<DoubanSelectorProps> = ({
     { label: '欧美', value: '欧美' },
     { label: '韩国', value: '韩国' },
     { label: '日本', value: '日本' },
-    { label: '韩国伦理', value: '韩国伦理' },
   ];
 
   // 电视剧选择器选项
